@@ -1,0 +1,12 @@
+REPO_TAGLINE: Environmental management • sustainability • responsible development
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: peace
+SITE_URL: https://academic-codex.github.io/SEP0527-Gestao-Ambiental
+
+BG_1: "#0E3B2E"
+BG_2: "#145A32"
+TEXT_MAIN: "#ECFDF5"
+TEXT_MUTED: "#A7F3D0"
+ACCENT: "#34D399"
+CARD_RADIUS: "18"
